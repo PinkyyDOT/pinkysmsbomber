@@ -1,7 +1,6 @@
-Merhaba pinkysms bomberi güle güle kullanın kullanmak için
+Merhaba pinkysms bomberi güle güle kullanın. Kullanmak için:
 
 pkg install python
-
 
 git clone https://github.com/PinkyyDOT/pinkysmsbomber.git
 
